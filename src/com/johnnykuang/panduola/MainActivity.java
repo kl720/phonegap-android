@@ -15,6 +15,6 @@ public class MainActivity extends Activity{
 	
 	public void registerKey()
 	{
-		
+		System.out.print("1");
 	}
 }
